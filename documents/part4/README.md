@@ -35,7 +35,7 @@ Firstly, I need to implement the desired effects in the custom WPF UserControl.
 
 
 
-![image-20230920204809425](images\image-20230920204809425.png)
+![image-20230920204809425](images\image20230920204809425.png)
 
 ### Extensibility
 
@@ -118,4 +118,4 @@ ECM: **mcontrol:Button** OpsCommand="**DialogCancel**"/OpsCommand="**DialogOk**"
 
 Test in POS
 
-![GIF 2023-9-20 21-03-34](images\GIF 2023-9-20 21-03-34.gif)
+![GIF 2023-9-20 21-03-34](images\GIF2023920210334.gif)
