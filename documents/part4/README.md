@@ -35,7 +35,7 @@ Firstly, I need to implement the desired effects in the custom WPF UserControl.
 
 
 
-![image-20230920204809425](images\image20230920204809425.png)
+![image20230920204809425](images\image20230920204809425.png)
 
 ### Extensibility
 
