@@ -12,6 +12,8 @@ If you have any questions, you can <a href="mailto:zhanglizero99@gmail.com" targ
 
 [3700 C# Models](https://github.com/simphonydeveloper/Micros3700Models)
 
+[Some Example](https://github.com/simphonydeveloper/DevelopmentMessageBoard)
+
 ### Official website
 
 My Sample Version [19.3]([Oracle MICROS Simphony 19.3 - Get Started](https://docs.oracle.com/en/industries/food-beverage/simphony/19.3/index.html)) 
