@@ -2,7 +2,7 @@
 
 Firstly, let's take a look at this example.
 
-![GIF 2023-9-17 21-40-22](./images/GIF 2023-9-17 21-40-22.gif)
+![GIF 2023-9-17 21-40-22](./images/GIF2023917214022.gif)
 
 Usually, we need to receive an input reference entry, but this can be easily achieved through an Extension application.
 
