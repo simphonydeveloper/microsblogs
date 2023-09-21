@@ -6,7 +6,7 @@ Sometimes we will include some information in the citation entry, such as member
 
 I am entering a test information for Cash payment.
 
-![image-20230915165333271](images\image-20230915165333271.png)
+![image-20230915165333271](./images/image-20230915165333271.png)
 
 After completing the transaction, go to the database to query the reference information.
 
@@ -18,7 +18,7 @@ select * from SECURE_DETAIL where CheckDetailID=6012700003
 
 
 
-![image-20230915170003507](images\image-20230915170003507.png)
+![image-20230915170003507](./images/image-20230915170003507.png)
 
 
 
@@ -26,13 +26,13 @@ Under normal circumstances, it is actually encrypted and needs to be set up in *
 
 
 
-![image-20230915170226549](images\image-20230915170226549.png)
+![image-20230915170226549](./images/image-20230915170226549.png)
 
 
 
 Options  enable #45
 
-![image-20230915170334288](images\image-20230915170334288.png)
+![image-20230915170334288](./images/image-20230915170334288.png)
 
 
 
