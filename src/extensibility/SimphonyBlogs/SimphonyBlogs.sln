@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimphonyExample", "SimphonyExample\SimphonyExample.csproj", "{FA15ED02-45D5-42B5-AD08-66F342BC1A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFExample", "WPFExample\WPFExample.csproj", "{9DBA5907-6D50-4F40-8C5D-DA2869971379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA15ED02-45D5-42B5-AD08-66F342BC1A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA15ED02-45D5-42B5-AD08-66F342BC1A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA15ED02-45D5-42B5-AD08-66F342BC1A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA15ED02-45D5-42B5-AD08-66F342BC1A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBA5907-6D50-4F40-8C5D-DA2869971379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBA5907-6D50-4F40-8C5D-DA2869971379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBA5907-6D50-4F40-8C5D-DA2869971379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBA5907-6D50-4F40-8C5D-DA2869971379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA9AB5BB-6404-46F6-9C3B-151C6D13A4B7}
+	EndGlobalSection
+EndGlobal
