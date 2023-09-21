@@ -118,4 +118,4 @@ ECM: **mcontrol:Button** OpsCommand="**DialogCancel**"/OpsCommand="**DialogOk**"
 
 Test in POS
 
-![GIF 2023-9-20 21-03-34](./images\GIF2023920210334.gif)
+![GIF 2023-9-20 21-03-34](./images/GIF2023920210334.gif)
