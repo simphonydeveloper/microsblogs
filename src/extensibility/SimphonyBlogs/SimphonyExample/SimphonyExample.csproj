@@ -31,6 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper">
+      <HintPath>..\..\packages\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EGatewayDB">
+      <HintPath>..\..\packages\EGatewayDB.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\packages\Newtonsoft.Json.dll</HintPath>
@@ -44,6 +50,9 @@
     <Reference Include="poscore">
       <HintPath>..\..\packages\poscore.dll</HintPath>
     </Reference>
+    <Reference Include="SimphonyUtilities">
+      <HintPath>..\..\packages\SimphonyUtilities.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -54,10 +63,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\SimphonyDbConnectionFactory.cs" />
     <Compile Include="Parts\Part2.cs" />
     <Compile Include="Parts\Part3.cs" />
     <Compile Include="Parts\Part4.cs" />
     <Compile Include="Parts\Part5.cs" />
+    <Compile Include="Parts\Part6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimphonyExampleApplication.cs" />
     <Compile Include="SimphonyExampleFactory.cs" />
