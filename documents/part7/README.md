@@ -57,7 +57,7 @@ Next, use a piece of code to use it.
 
 
 
-![image-20231010203423451](C:\Users\张力\AppData\Roaming\Typora\typora-user-images\image-20231010203423451.png)
+![image-20231010203423451](./images/image-20231010203423451.png)
 
 
 
