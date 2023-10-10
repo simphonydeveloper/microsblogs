@@ -57,10 +57,7 @@ Next, use a piece of code to use it.
 
 
 
-![image20231010203423451](./images/image20231010203423451.png)
-
-
-
+![image20231010203423451](https://github.com/simphonydeveloper/microsblogs/assets/118798499/e89d9756-bcc0-43c8-a6a2-4c643697de0c)
 
 
 ### OpsCustomReceiptEventArgs
