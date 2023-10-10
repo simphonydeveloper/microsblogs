@@ -69,6 +69,7 @@
     <Compile Include="Parts\Part4.cs" />
     <Compile Include="Parts\Part5.cs" />
     <Compile Include="Parts\Part6.cs" />
+    <Compile Include="Parts\Part7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimphonyExampleApplication.cs" />
     <Compile Include="SimphonyExampleFactory.cs" />

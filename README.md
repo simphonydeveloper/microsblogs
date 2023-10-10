@@ -44,5 +44,7 @@ part4:[[Simphony]CustomDialog  from WPF——Build a complete dialog box)](docum
 
 part5:[[Simphony]CustomDialog  from WPF——MVVM)](documents/part5/README.md)
 
-part5:[[Simphony]Extensibility local database and Dapper ORM)](documents/part6/README.md)
+part6:[[Simphony]Extensibility local database and Dapper ORM)](documents/part6/README.md)
+
+part7:[[Simphony]How to use PrintReceipt](documents/part7/README.md)
 
