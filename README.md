@@ -48,3 +48,5 @@ part6:[[Simphony]Extensibility local database and Dapper ORM)](documents/part6/R
 
 part7:[[Simphony]How to use PrintReceipt](documents/part7/README.md)
 
+part8:[[Simphony]DataStore DbKey writes data](documents/part8/README.md)
+
