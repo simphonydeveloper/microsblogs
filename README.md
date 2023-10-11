@@ -50,3 +50,5 @@ part7:[[Simphony]How to use PrintReceipt](documents/part7/README.md)
 
 part8:[[Simphony]DataStore DbKey writes data](documents/part8/README.md)
 
+part9:[[Simphony]DataStore.ReadExtensionDataValue](documents/part9/README.md)
+
