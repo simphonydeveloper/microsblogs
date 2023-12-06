@@ -16,7 +16,11 @@ namespace SimphonyExample
     {
         public SimphonyExampleApplication(IExecutionContext context) : base(context)
         {
-           
+
+            //part11
+            this.OpsCommandEvent += SimphonyExampleApplication_OpsCommandEvent;
         }
+
+      
     }
 }

@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Database\SimphonyDbConnectionFactory.cs" />
+    <Compile Include="Parts\Part11.cs" />
     <Compile Include="Parts\Part2.cs" />
     <Compile Include="Parts\Part3.cs" />
     <Compile Include="Parts\Part4.cs" />
