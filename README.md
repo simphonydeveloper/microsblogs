@@ -58,4 +58,5 @@ part11:[[Simphony]Simphony input box cancel event listening](documents/part11/RE
 
 part12:[[Simphony]Customize button styles](documents/part12/README.md)
 
-part12:[[Simphony]Print barcode(Code by Matt)](src/extensibility/SimphonyBlogs/SimphonyExample/Parts/Part13.cs)
+part13:[[Simphony]Print barcode(Code by Matt)](src/extensibility/SimphonyBlogs/SimphonyExample/Parts/Part13.cs)
+
