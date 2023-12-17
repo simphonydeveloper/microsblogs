@@ -56,5 +56,6 @@ part10:[[Simphony]The relationship between CheckGuid and CheckSeq](documents/par
 
 part11:[[Simphony]Simphony input box cancel event listening](documents/part11/README.md)
 
+part12:[[Simphony]Customize button styles](documents/part12/README.md)
 
-
+part12:[[Simphony]Print barcode(Code by Matt)](.\src\extensibility\SimphonyBlogs\SimphonyExample\Parts\Part13.cs)
