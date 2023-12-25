@@ -1,4 +1,4 @@
 
 
-<img src="./telegraph.JPG" style="zoom:50%" />
+<img src="./telegraph.JPG" style="zoom:30%" />
 
