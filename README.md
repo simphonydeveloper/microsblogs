@@ -4,7 +4,13 @@ Hello everyone, I will update the blogs related to **Micros Simphony** and **Res
 
 Because I mostly use Google Translate to write blogs. So some of the content may not be very clear, you can submit an **issue**.
 
-If you have any questions, you can <a href="mailto:zhanglizero99@gmail.com" target="_blank">contact</a> me. 
+## Contact
+
+If you have any questions, you can contact me.
+
+<a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
+
+[Telegram](./documents/telegram/README.md)
 
 ## Resources
 
