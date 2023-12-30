@@ -98,8 +98,7 @@ The framework of Simphony HTML5 has a main body. Under this subject, you can ach
 
 ```
 
-You should put your code in *<div class="SimphonyPOSDialogWindow SimphonyPOSCenterWindow" style="width:36.5%;">
-    </div>*
+You should put your code in *SimphonyPOSDialogWindow SimphonyPOSCenterWindow* div.
 
 ```html
 <!DOCTYPE html>
