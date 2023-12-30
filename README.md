@@ -66,3 +66,5 @@ part12:[[Simphony]Customize button styles](documents/part12/README.md)
 
 part13:[[Simphony]Print barcode(Code by Matt)](src/extensibility/SimphonyBlogs/SimphonyExample/Parts/Part13.cs)
 
+part14:[[Simphony]HTML5 Sales chart](documents/part14/README.md)
+
