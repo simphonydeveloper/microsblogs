@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SimphonyExample")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Micros Simphony Extension DLL")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SimphonyExample")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCompany("Power By SimphonyDeveloper")]
+[assembly: AssemblyProduct("https://github.com/simphonydeveloper/microsblogs.git")]
+[assembly: AssemblyCopyright("Power By SimphonyDeveloper ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

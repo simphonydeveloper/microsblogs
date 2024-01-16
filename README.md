@@ -68,3 +68,5 @@ part13:[[Simphony]Print barcode(Code by Matt)](src/extensibility/SimphonyBlogs/S
 
 part14:[[Simphony]HTML5 Sales chart](documents/part14/README.md)
 
+part15:[[Simphony]How do  get a discount on a menuitem?](documents/part15/README.md)
+
