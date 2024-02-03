@@ -70,3 +70,4 @@ part14:[[Simphony]HTML5 Sales chart](documents/part14/README.md)
 
 part15:[[Simphony]How do  get a discount on a menuitem?](documents/part15/README.md)
 
+part15:[[Simphony]Distinguish menuitem hold](documents/part16/README.md)
