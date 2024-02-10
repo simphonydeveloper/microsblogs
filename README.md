@@ -71,3 +71,6 @@ part14:[[Simphony]HTML5 Sales chart](documents/part14/README.md)
 part15:[[Simphony]How do  get a discount on a menuitem?](documents/part15/README.md)
 
 part16:[[Simphony]Distinguish menuitem hold](documents/part16/README.md)
+
+part17:[[Simphony]SqlCMD backup  simphony local database](documents/part17/README.md)
+
