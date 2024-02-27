@@ -106,7 +106,7 @@ other span value.
 
 progressing.
 
-![GIF 2024-2-27 11-07-53](./images/GIF 2024-2-27 11-07-53.gif)
+![progressing](./images/progressing.gif)
 
 ### UpdateProgressRequest
 
