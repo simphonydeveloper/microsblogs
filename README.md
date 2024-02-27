@@ -42,7 +42,7 @@ telegram:[go](https://t.me/+mrE74p7wRx0wMWZl)
 
 [![alt text](./documents/telegram/coffee.png)](https://www.paypal.me/developerpeter)
 
-If my content is helpful to you, could you give me a cup of coffee? It will give me more motivation to update.
+If my content is helpful to you, can inject some energy into me. It will give me more motivation to update.
 
 Thanks.
 
