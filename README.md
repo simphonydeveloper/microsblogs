@@ -38,6 +38,14 @@ My Sample Version [19.3]([Oracle MICROS Simphony 19.3 - Get Started](https://doc
 
 telegram:[go](https://t.me/+mrE74p7wRx0wMWZl)
 
+## Coffee
+
+[![alt text](./documents/telegram/coffee.png)](https://www.paypal.me/developerpeter)
+
+If my content is helpful to you, could you give me a cup of coffee? It will give me more motivation to update.
+
+Thanks.
+
 ## Blogs
 
 part1:[[Simphony]Get project reference entry from the database](documents/part1/README.md)
@@ -73,4 +81,6 @@ part15:[[Simphony]How do  get a discount on a menuitem?](documents/part15/README
 part16:[[Simphony]Distinguish menuitem hold](documents/part16/README.md)
 
 part17:[[Simphony]SqlCMD backup  simphony local database](documents/part17/README.md)
+
+part18:[[Simphony]All Dialog Control Preview](documents/part18/README.md)
 
