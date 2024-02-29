@@ -84,3 +84,5 @@ part17:[[Simphony]SqlCMD backup  simphony local database](documents/part17/READM
 
 part18:[[Simphony]All Dialog Control Preview](documents/part18/README.md)
 
+part19:[[Simphony]How to Add a CheckExtensibilityDetail?](documents/part19/README.md)
+
