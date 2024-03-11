@@ -16,9 +16,9 @@ There are two of my orders now.I will convert these two checks into other employ
 
 ![image-20240311220651360](./images/image-20240311220651360.png)
 
-sample
+sample(a gif.)
 
-![GIF 2024-3-11 22-11-31](./images/GIF 2024-3-11 22-11-31.gif)
+![GIF 2024-3-11 22-11-31](./images/sample.gif)
 
 Single or multiple can be controlled through **MultipleChecks**.
 
