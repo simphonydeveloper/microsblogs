@@ -86,7 +86,7 @@ part18:[[Simphony]All Dialog Control Preview](documents/part18/README.md)
 
 part19:[[Simphony]How to Add a CheckExtensibilityDetail?](documents/part19/README.md)
 
-part1:[[Simphony]Order Information Service Assign,Close,CloseAllChecks](documents/part20/README.md)
+part20:[[Simphony]Order Information Service Assign,Close,CloseAllChecks](documents/part20/README.md)
 
 
 
