@@ -88,5 +88,7 @@ part19:[[Simphony]How to Add a CheckExtensibilityDetail?](documents/part19/READM
 
 part20:[[Simphony]Order Information Service Assign,Close,CloseAllChecks](documents/part20/README.md)
 
+part21:[[Simphony]Two different extensibility operations with the same value.](documents/part21/README.md)
+
 
 
