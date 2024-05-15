@@ -90,5 +90,7 @@ part20:[[Simphony]Order Information Service Assign,Close,CloseAllChecks](documen
 
 part21:[[Simphony]Two different extensibility operations with the same value.](documents/part21/README.md)
 
+part22:[[Simphony]Void multiple items simple example](documents/part22/README.md)
+
 
 
