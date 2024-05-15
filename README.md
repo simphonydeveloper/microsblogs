@@ -92,5 +92,7 @@ part21:[[Simphony]Two different extensibility operations with the same value.](d
 
 part22:[[Simphony]Void multiple items simple example](documents/part22/README.md)
 
+part23:[[Simphony]GetMenuItemDiscountedTotal](documents/part23/README.md)
+
 
 
