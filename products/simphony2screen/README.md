@@ -34,15 +34,34 @@ But SimphonyScreen is different. SimphonyScreen is mainly suitable for displayin
 
 ✅Photo advertising(rotating)
 
-⬜Text advertising (colorful)
+✅Video advertising
 
-⬜Video advertising
+⬜Text advertising (colorful)
 
 ⬜Version compatibility (2.9, 18, 19)
 
 
 
+## Use
 
+The installation files are in the same directory.
+
+After successful installation, the page will display **SimphonyExtension**, which contains DLL content.It needs to be configured in EMC.
+
+
+
+In the **settings**, you can choose **images** or **videos** to display advertisements.
+
+Video:The video will be played in a loop.
+Image:The image will be played according to the time interval (of course, one image will not)
+
+
+
+Then you need to win+p and select Extend.
+
+The Open button will open the advertising page, The Close button can close it.
+
+[Feedback](https://github.com/simphonydeveloper/microsblogs/discussions/2)
 
 ## Ultimate Plan
 

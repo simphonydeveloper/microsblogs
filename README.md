@@ -8,7 +8,7 @@ Because I mostly use Google Translate to write blogs. So some of the content may
 
 If you have any questions, you can contact me.
 
-<a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
+<a href="mailto:simphonydeveloper@outlook.com" target="_blank">Email</a>
 
 [Telegram](./documents/telegram/README.md)
 
