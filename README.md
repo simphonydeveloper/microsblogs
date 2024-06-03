@@ -102,6 +102,10 @@ part22:[[Simphony]Void multiple items simple example](documents/part22/README.md
 
 part23:[[Simphony]GetMenuItemDiscountedTotal](documents/part23/README.md)
 
+part24:[[Simphony]Page Design-Custom Content Loader](documents/part24/README.md)
+
+
+
 
 
 
