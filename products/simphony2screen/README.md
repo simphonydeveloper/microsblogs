@@ -36,7 +36,7 @@ But SimphonyScreen is different. SimphonyScreen is mainly suitable for displayin
 
 ✅Video advertising
 
-⬜Text advertising (colorful)
+✅Text advertising (colorful)
 
 ⬜Version compatibility (2.9, 18, 19)
 
@@ -53,7 +53,9 @@ After successful installation, the page will display **SimphonyExtension**, whic
 In the **settings**, you can choose **images** or **videos** to display advertisements.
 
 Video:The video will be played in a loop.
-Image:The image will be played according to the time interval (of course, one image will not)
+Image:The image will be played according to the time interval (of course, one image will not).
+
+Text:Text scrolling display.
 
 
 
