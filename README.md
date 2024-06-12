@@ -22,6 +22,10 @@ If you have any questions, you can contact me.
 
 ## Resources
 
+### Customize
+
+[Simphony Custom Page with customized data analysis](https://youtu.be/nhxGVf9TkYs)
+
 ### Code
 
 [3700 C# Models](https://github.com/simphonydeveloper/Micros3700Models)
