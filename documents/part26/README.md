@@ -119,7 +119,7 @@ namespace Micros.Ops
 
 If you receive this error, please check OpsCommand.Text,the must have values.
 
-![image-20240618153200946](C:\Users\张力\AppData\Roaming\Typora\typora-user-images\image-20240618153200946.png)
+![image-20240618153200946](./images/image-20240618153200946.png)
 
 
 
