@@ -76,6 +76,7 @@
     <Compile Include="Parts\Part22.cs" />
     <Compile Include="Parts\Part23.cs" />
     <Compile Include="Parts\Part25.cs" />
+    <Compile Include="Parts\Part26.cs" />
     <Compile Include="Parts\Part3.cs" />
     <Compile Include="Parts\Part4.cs" />
     <Compile Include="Parts\Part5.cs" />
