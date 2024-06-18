@@ -110,6 +110,10 @@ part24:[[Simphony]Page Design-Custom Content Loader](documents/part24/README.md)
 
 part25:[[Simphony]View the logs of the Extension Application](documents/part25/README.md)
 
+part26:[[Simphony]OpsCommandType.AddMenuItem and MenuItem](documents/part26/README.md)
+
+
+
 
 
 
