@@ -110,7 +110,11 @@ part24:[[Simphony]Page Design-Custom Content Loader](documents/part24/README.md)
 
 part25:[[Simphony]View the logs of the Extension Application](documents/part25/README.md)
 
-part26:[[Simphony]OpsCommandType.AddMenuItem and MenuItem](documents/part26/README.md)
+part26:[[Simphony]OpsCommandType.AddMenuItem and MenuItem Code Example](documents/part26/README.md)
+
+part27:[[Simphony]OpsCommandType.Discount Code Example](documents/part27/README.md)
+
+part28:[[Simphony]OpsCommand  Quick Method](documents/part28/README.md)
 
 
 
