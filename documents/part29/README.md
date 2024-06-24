@@ -38,7 +38,7 @@ Go to **Debug**-**Attach to Process**.Change **Connection type** to **Remote**
 
 
 
-![image-20240624212100748](C:\Users\张力\AppData\Roaming\Typora\typora-user-images\image-20240624212100748.png)
+![image-20240624212100748](./images/image-20240624212100748.png)
 
 Click **Find** Button.Wait for a while, and it will automatically discover the computer that the Remote Debugger is turned on.
 
