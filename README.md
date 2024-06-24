@@ -116,6 +116,8 @@ part27:[[Simphony]OpsCommandType.Discount Code Example](documents/part27/README.
 
 part28:[[Simphony]OpsCommand  Quick Method](documents/part28/README.md)
 
+part29:[[Simphony]Simphony Debugging skill-Remote Debugging](documents/part29/README.md)
+
 
 
 
