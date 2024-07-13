@@ -31,27 +31,33 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Dapper">
-      <HintPath>..\..\packages\Dapper.dll</HintPath>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\Dapper.dll</HintPath>
     </Reference>
-    <Reference Include="EGatewayDB">
-      <HintPath>..\..\packages\EGatewayDB.dll</HintPath>
+    <Reference Include="EGatewayDB, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\EGatewayDB.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\packages\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\pkgs\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="ops">
-      <HintPath>..\..\packages\ops.dll</HintPath>
+    <Reference Include="ops, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\ops.dll</HintPath>
     </Reference>
-    <Reference Include="PosCommonClasses">
-      <HintPath>..\..\packages\PosCommonClasses.dll</HintPath>
+    <Reference Include="PosCommonClasses, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\PosCommonClasses.dll</HintPath>
     </Reference>
-    <Reference Include="poscore">
-      <HintPath>..\..\packages\poscore.dll</HintPath>
+    <Reference Include="poscore, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\poscore.dll</HintPath>
     </Reference>
-    <Reference Include="SimphonyUtilities">
-      <HintPath>..\..\packages\SimphonyUtilities.dll</HintPath>
+    <Reference Include="SimphonyUtilities, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\pkgs\SimphonyUtilities.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
