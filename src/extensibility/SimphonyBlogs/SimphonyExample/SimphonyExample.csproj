@@ -59,8 +59,15 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\pkgs\SimphonyUtilities.dll</HintPath>
     </Reference>
+    <Reference Include="Spire.License">
+      <HintPath>..\..\pkgs\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>..\..\pkgs\Spire.Pdf.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -86,6 +93,7 @@
     <Compile Include="Parts\Part27.cs" />
     <Compile Include="Parts\Part28.cs" />
     <Compile Include="Parts\Part3.cs" />
+    <Compile Include="Parts\Part30.cs" />
     <Compile Include="Parts\Part4.cs" />
     <Compile Include="Parts\Part5.cs" />
     <Compile Include="Parts\Part6.cs" />
