@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Drawing;
 using System.Net.Mail;
 using System.Net;
+using System.Net.Mime;
+using System.IO;
 
 namespace SimphonyExample
 {
@@ -18,8 +20,20 @@ namespace SimphonyExample
         public void Part30Test1()
         {
             Logger.LogAlways("Part30Test1");
-            CreatePdf(AppContext.BaseDirectory + DateTime.Now.ToString("yyyyMMddHHmmss") + ".pdf");
-            this.OpsContext.ShowMessage("pdf");
+
+            string pdfPath = AppContext.BaseDirectory + DateTime.Now.ToString("yyyyMMddHHmmss") + ".pdf";
+            CreatePdf(pdfPath);
+            //this.OpsContext.ShowMessage("pdf");
+
+            string senderEmail = "2094687980@qq.com";
+            string authCode = "tilrksmbksfsfdce";
+            string receiverEmail = "simphonydeveloper@outlook.com";
+            string emailTitle = "Peter's Restaurant Check";
+            //the eamil content can use html
+            //string emailContent = "Welcome to the restaurant, please refer to the attached check information.";
+            string emailContentHtml = "<a style=\"color: green\">Welcome to the restaurant, please refer to the attached check information.</a>";
+            string smtpService = "smtp.qq.com";
+            SendEmail(senderEmail, authCode, receiverEmail, emailTitle, emailContentHtml, smtpService, pdfPath);
         }
 
 
@@ -45,6 +59,51 @@ namespace SimphonyExample
             //Save pdf file.
             doc.SaveToFile(path);
             doc.Close();
+        }
+
+
+        /// <summary>
+        /// Send an email
+        /// The sender needs to enable a third-party client service in their email, located at Settings -->Account -->POP3/SMTP Service -->Enable, to obtain an email authorization code
+        /// </summary>
+        /// <param name="senderEmail">sender email address</param>
+        /// <param name="authCode">authCode</param>
+        /// <param name="receiverEmail">receiver email address</param>
+        /// <param name="emailTitle">emailTitle</param>
+        /// <param name="emailContent">email Content(can html)</param>
+        /// <param name="smtpService">smtpService </param>
+        /// <param name="pdfPath">pdfPath</param>
+        public void SendEmail(string senderEmail, string authCode, string receiverEmail, string emailTitle, string emailContent, string smtpService, string pdfPath)
+        {
+            MailMessage mailMsg = new MailMessage();
+            mailMsg.From = new MailAddress(senderEmail);
+            mailMsg.To.Add(new MailAddress(receiverEmail));
+            mailMsg.SubjectEncoding = Encoding.UTF8;
+            mailMsg.Subject = emailTitle;
+            mailMsg.BodyEncoding = Encoding.UTF8;
+            mailMsg.Body = emailContent;
+            mailMsg.IsBodyHtml = true;
+            mailMsg.Priority = MailPriority.Normal;
+
+
+            SmtpClient client = new SmtpClient();
+            client.Host = smtpService;
+            client.Port = 587;
+            client.EnableSsl = true;
+            client.UseDefaultCredentials = false;
+            //Verify sender identity (sender email, email generated authorization code)
+            client.Credentials = new NetworkCredential(senderEmail, authCode);
+
+            //add pdf attachment
+            Attachment data = new Attachment(pdfPath, MediaTypeNames.Application.Octet);
+            ContentDisposition disposition = data.ContentDisposition;
+            disposition.CreationDate = File.GetCreationTime(pdfPath);
+            disposition.ModificationDate = File.GetLastWriteTime(pdfPath);
+            disposition.ReadDate = File.GetLastAccessTime(pdfPath);
+            mailMsg.Attachments.Add(data);
+
+            //send
+            client.Send(mailMsg);
         }
     }
 }
