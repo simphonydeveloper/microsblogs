@@ -12,14 +12,6 @@ If you have any questions, you can contact me.
 
 [Telegram](./documents/telegram/README.md)
 
-## My Products
-
-[Simphony Screen](./products/simphony2screen/README.md): The ordering advertisement application for the second screen associated with the workstation.
-
-*Click photo to view video*
-
-<a href="https://youtu.be/El5WXfhequw" title="Link Title"><img src="./products/simphony2screen/images/show.png" alt="Alternate Text" /></a>
-
 ## Resources
 
 ### Customize
