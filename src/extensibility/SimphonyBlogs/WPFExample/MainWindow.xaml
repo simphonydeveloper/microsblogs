@@ -9,6 +9,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <!--<controls:MyCustomDialogControl/>-->
-        <controls:MyCustomDialogControl_Part5/>
+        <controls:SampleForm/>
     </Grid>
 </Window>

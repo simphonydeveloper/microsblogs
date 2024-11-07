@@ -94,6 +94,7 @@
     <Compile Include="Parts\Part28.cs" />
     <Compile Include="Parts\Part3.cs" />
     <Compile Include="Parts\Part30.cs" />
+    <Compile Include="Parts\Part32.cs" />
     <Compile Include="Parts\Part4.cs" />
     <Compile Include="Parts\Part5.cs" />
     <Compile Include="Parts\Part6.cs" />

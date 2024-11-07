@@ -114,7 +114,7 @@ part30:[[Simphony]Simphony Createe Check PDF AND SEND TO EMAIL-Create a PDF](doc
 
 part31:[[Simphony]Simphony Createe Check PDF AND SEND TO EMAIL-Send to email](documents/part31/README.md)
 
-
+part32:[[Simphony]A beautiful custom sample form](documents/part32/README.md)
 
 
 
