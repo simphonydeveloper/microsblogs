@@ -35,7 +35,7 @@ namespace SimphonyExample
         public void Part11Test1()
         {
             Logger.LogAlways("Part11Test1");
-
+            
             IsOpenListen = true;
             var result = this.OpsContext.RequestAlphaEntry("test input", "test");
             IsOpenListen = false;

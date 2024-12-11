@@ -42,14 +42,6 @@ My Sample Version [19.3]([Oracle MICROS Simphony 19.3 - Get Started](https://doc
 
 telegram:[go](https://t.me/+mrE74p7wRx0wMWZl)
 
-## Coffee
-
-[![alt text](./documents/telegram/coffee.png)](https://www.paypal.me/developerpeter)
-
-If my content is helpful to you, can inject some energy into me. It will give me more motivation to update.
-
-Thanks.
-
 ## Blogs
 
 part1:[[Simphony]Get project reference entry from the database](documents/part1/README.md)
@@ -116,9 +108,29 @@ part31:[[Simphony]Simphony Createe Check PDF AND SEND TO EMAIL-Send to email](do
 
 part32:[[Simphony]A beautiful custom sample form](documents/part32/README.md)
 
+part33:[[Simphony]Simphony JavaScript Extensibility-Sample and Configuration](documents/part33/README.md)
+
+part34:[[Simphony]Simphony JavaScript Extensibility-Get Transaction Amount](documents/part34/README.md)
+
+part35:[[Simphony]Simphony JavaScript Extensibility-Get Menuitems](documents/part35/README.md)
+
+part36:[[Simphony]Simphony JavaScript Extensibility-Request Input Entry Method](documents/part36/README.md)
+
+part37:[[Simphony]Simphony JavaScript Extensibility-Command](documents/part37/README.md)
+
+part38:[[Simphony]Simphony JavaScript Extensibility-Eventing](documents/part38/README.md)
+
+part39:[[Simphony]Simphony JavaScript Extensibility-Logger](documents/part39/README.md)
 
 
 
+## Coffee
+
+[![](https://img.shields.io/badge/Coffee-donate?style=for-the-badge&logo=Paypal)](https://www.paypal.me/developerpeter)
+
+If my content is helpful to you, can inject some energy into me. It will give me more motivation to update.
+
+Thanks.
 
 
 
