@@ -108,15 +108,15 @@ Finally, you can go to POS testing.
 
 More Information:
 
-part34:[[Simphony]Simphony JavaScript Extensibility-Get Transaction Amount](documents/part34/README.md)
+part34:[[Simphony]Simphony JavaScript Extensibility-Get Transaction Amount](../part34/README.md)
 
-part35:[[Simphony]Simphony JavaScript Extensibility-Get Menuitems](documents/part35/README.md)
+part35:[[Simphony]Simphony JavaScript Extensibility-Get Menuitems](../part35/README.md)
 
-part36:[[Simphony]Simphony JavaScript Extensibility-Request Input Entry Method](documents/part36/README.md)
+part36:[[Simphony]Simphony JavaScript Extensibility-Request Input Entry Method](../part36/README.md)
 
-part37:[[Simphony]Simphony JavaScript Extensibility-Command](documents/part37/README.md)
+part37:[[Simphony]Simphony JavaScript Extensibility-Command](../part37/README.md)
 
-part38:[[Simphony]Simphony JavaScript Extensibility-Eventing](documents/part38/README.md)
+part38:[[Simphony]Simphony JavaScript Extensibility-Eventing](../part38/README.md)
 
-part39:[[Simphony]Simphony JavaScript Extensibility-Logger](documents/part39/README.md)
+part39:[[Simphony]Simphony JavaScript Extensibility-Logger](../part39/README.md)
 
