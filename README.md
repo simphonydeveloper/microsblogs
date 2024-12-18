@@ -122,7 +122,7 @@ part38:[[Simphony]Simphony JavaScript Extensibility-Eventing](documents/part38/R
 
 part39:[[Simphony]Simphony JavaScript Extensibility-Logger](documents/part39/README.md)
 
-part39:[[Simphony]Simphony JavaScript Extensibility-Simphony JavaScript Extensibility Http Request Example(GET/POST)](documents/part40/README.md)
+part40:[[Simphony]Simphony JavaScript Extensibility-Simphony JavaScript Extensibility Http Request Example(GET/POST)](documents/part40/README.md)
 
 
 
