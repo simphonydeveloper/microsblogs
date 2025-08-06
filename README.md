@@ -126,9 +126,9 @@ part40:[[Simphony]Simphony JavaScript Extensibility-Simphony JavaScript Extensib
 
 part41:[[Simphony]How to  use  Transaction Service Gen1 Extensibility)](documents/part41/README.md)
 
-part41:[[Simphony]JavaScript Extensibility Run HTML5)](documents/part42/README.md)
+part42:[[Simphony]JavaScript Extensibility Run HTML5)](documents/part42/README.md)
 
-part41:[[Simphony]JavaScript Extensibility Get EMC Content Like JSON,Text)](documents/part43/README.md)
+part43:[[Simphony]JavaScript Extensibility Get EMC Content Like JSON,Text)](documents/part43/README.md)
 
 
 
